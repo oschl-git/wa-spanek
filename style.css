@@ -1,0 +1,13 @@
+html,
+a {
+	color: white;
+}
+
+body {
+	background-color: black;
+}
+
+header,
+footer {
+	background-color: blue;
+}
